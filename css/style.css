@@ -204,9 +204,9 @@
 .footer{
     background-color: #23272a;
     padding: 50px;
+    height: 100vh;
 }
 .footertop{
-    height: 50px;
     display: flex;
     justify-content: center;
     align-items: center;
