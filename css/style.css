@@ -256,10 +256,25 @@
 .hr{
    color: #5f78c6 ;
 }
+.Registrati{
+    color: white;
+    background-color: #5f78c6;
+    border: 1px solid #5f78c6;
+    width: 70px;
+    height: 35px;
+    border-radius: 50px;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    
+}
+    
+    
 
 .bottone{
     background-color: rosybrown;
     padding: 3px;
+    text-align: end;
 }
 
 
