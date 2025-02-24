@@ -172,9 +172,14 @@
 }
     
 .square2>h2{
-    font-size: ;
+    margin-bottom: 20px;
+    font-size: 40px;
+    text-align: center;
 }
-
+.square2>p{
+    font-size: 20px;
+    text-align: center;
+}
 
 .rettangolo{
     height: 300px;
