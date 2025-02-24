@@ -180,6 +180,26 @@
     font-size: 20px;
     text-align: center;
 }
+.backgroundstars{
+    background-image: url(../img/img/stars.svg);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: contain;
+    padding: 30px;
+}
+.buttonsec4{
+    background-color: #aebbe8;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 150px;
+    height: 40px;
+    border-radius: 50px;
+    font-weight: bold;
+    
+}
+/* quinta sezione */
 
 .rettangolo{
     height: 300px;
