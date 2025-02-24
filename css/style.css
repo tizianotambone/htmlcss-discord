@@ -249,7 +249,12 @@
 .rettangolo2{
     height: 300px;
     width: 10%;
+    display: flex;
+    justify-content: space-around;
 
+}
+.hr{
+   color: #5f78c6 ;
 }
 
 .bottone{
