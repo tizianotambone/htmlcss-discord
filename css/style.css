@@ -199,8 +199,25 @@
     font-weight: bold;
     
 }
-/* quinta sezione */
 
+/* footer */
+.footer{
+    background-color: #23272a;
+    padding: 50px;
+}
+.footertop{
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid white;
+}
+.footerbottom{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid white;
+}
 .rettangolo{
     height: 300px;
     width: 20%;
@@ -214,27 +231,14 @@
     border: 2px dashed white;
 
 }
-.bglblue{
-    background-color: rgb(92, 199, 235);
-}
-.bgdark{
-    background-color: rgb(69, 65, 65);
-}
+
 .bottone{
     background-color: rosybrown;
     border: 2px dashed black;
     padding: 3px;
 }
-.bgcoloracqua{
-    background-color: aqua;
-}
-.footer{
-    height: 50px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    border: 2px solid white;
-}
+
+
 
 .dimensione{
 
