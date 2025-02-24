@@ -198,12 +198,14 @@
     border-radius: 50px;
     font-weight: bold;
     
+    
 }
 
 /* footer */
 .footer{
     background-color: #23272a;
     padding: 50px;
+
 }
 .footertop{
     display: flex;
@@ -214,13 +216,16 @@
 }
 .bandiera{
     width: 20px;
-    margin-left: 30px;
+    margin-left: 5pxpx;
+    margin-top: 10px;
 }
 .icone{
     margin: 30px;
     display: flex;
     justify-content: space-between;
     width: 100px;
+    align-items: flex-start;
+
 }
 .testo{
     color: #5f78c6;
@@ -253,9 +258,7 @@
     justify-content: space-around;
 
 }
-.hr{
-   color: #5f78c6 ;
-}
+
 .Registrati{
     color: white;
     background-color: #5f78c6;
@@ -268,25 +271,37 @@
     align-items: center;
     
 }
+.space{
+    padding: 1px;
+    background-color: #5f78c6;
+    display: flex;
+    justify-content: center;
+    margin: 10px 10px;
+}
     
+.spacebetween{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
     
-
-.bottone{
-    background-color: rosybrown;
-    padding: 3px;
-    text-align: end;
+   
 }
 
+  
+    
 
 
-.dimensione{
+
+
+
+/* .dimensione{
 
     display: flex;
     justify-content: space-between;
     align-items: center;
     height: 30px;
     width: 60%;
-} 
+}  */
  
     
 
